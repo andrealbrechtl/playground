@@ -1,0 +1,2807 @@
+{"categories" : [
+            {
+              "id": "biological-material",
+              "nodeId": "biological-material",
+              "humanReadableId": "Biological Material",
+              "label": "Biological Material",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 1,
+              "children": [
+                {
+                  "id": "wood",
+                  "nodeId": "wood",
+                  "humanReadableId": "Wood",
+                  "label": "Wood",
+                  "checked": true
+                }
+              ]
+            },
+            {
+              "id": "ceramic",
+              "nodeId": "ceramic",
+              "humanReadableId": "Ceramic",
+              "label": "Ceramic",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 239,
+              "children": [
+                {
+                  "id": "carbon",
+                  "nodeId": "carbon",
+                  "humanReadableId": "Carbon",
+                  "label": "Carbon",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "carbon-nanotube",
+                      "nodeId": "carbon-nanotube",
+                      "humanReadableId": "Carbon Nanotube",
+                      "label": "Carbon Nanotube",
+                      "checked": true
+                    },
+                    {
+                      "id": "diamond",
+                      "nodeId": "diamond",
+                      "humanReadableId": "Diamond",
+                      "label": "Diamond",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "natural-diamond",
+                          "nodeId": "natural-diamond",
+                          "humanReadableId": "Natural Diamond",
+                          "label": "Natural Diamond",
+                          "checked": true
+                        },
+                        {
+                          "id": "synthetic-diamond",
+                          "nodeId": "synthetic-diamond",
+                          "humanReadableId": "Synthetic Diamond",
+                          "label": "Synthetic Diamond",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "graphene",
+                      "nodeId": "graphene",
+                      "humanReadableId": "Graphene",
+                      "label": "Graphene",
+                      "checked": true
+                    },
+                    {
+                      "id": "graphite",
+                      "nodeId": "graphite",
+                      "humanReadableId": "Graphite",
+                      "label": "Graphite",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "engineering-ceramic",
+                  "nodeId": "engineering-ceramic",
+                  "humanReadableId": "Engineering Ceramic",
+                  "label": "Engineering Ceramic",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "non-oxide-based",
+                      "nodeId": "non-oxide-based",
+                      "humanReadableId": "Non Oxide Based",
+                      "label": "Non Oxide Based",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "boride-based",
+                          "nodeId": "boride-based",
+                          "humanReadableId": "Boride Based",
+                          "label": "Boride Based",
+                          "checked": true
+                        },
+                        {
+                          "id": "carbide-based",
+                          "nodeId": "carbide-based",
+                          "humanReadableId": "Carbide Based",
+                          "label": "Carbide Based",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "boron-carbide",
+                              "nodeId": "boron-carbide",
+                              "humanReadableId": "Boron Carbide",
+                              "label": "Boron Carbide",
+                              "checked": true
+                            },
+                            {
+                              "id": "silicon-carbide",
+                              "nodeId": "silicon-carbide",
+                              "humanReadableId": "Silicon Carbide",
+                              "label": "Silicon Carbide",
+                              "checked": true
+                            },
+                            {
+                              "id": "tantalum-carbide",
+                              "nodeId": "tantalum-carbide",
+                              "humanReadableId": "Tantalum Carbide",
+                              "label": "Tantalum Carbide",
+                              "checked": true
+                            },
+                            {
+                              "id": "titanium-carbide",
+                              "nodeId": "titanium-carbide",
+                              "humanReadableId": "Titanium Carbide",
+                              "label": "Titanium Carbide",
+                              "checked": true
+                            },
+                            {
+                              "id": "tungsten-carbide",
+                              "nodeId": "tungsten-carbide",
+                              "humanReadableId": "Tungsten Carbide",
+                              "label": "Tungsten Carbide",
+                              "checked": true
+                            },
+                            {
+                              "id": "zirconium-carbide",
+                              "nodeId": "zirconium-carbide",
+                              "humanReadableId": "Zirconium Carbide",
+                              "label": "Zirconium Carbide",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "nitride-based",
+                          "nodeId": "nitride-based",
+                          "humanReadableId": "Nitride Based",
+                          "label": "Nitride Based",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "aluminium-nitirde",
+                              "nodeId": "aluminium-nitirde",
+                              "humanReadableId": "Aluminium Nitirde",
+                              "label": "Aluminium Nitirde",
+                              "checked": true
+                            },
+                            {
+                              "id": "boron-nitride",
+                              "nodeId": "boron-nitride",
+                              "humanReadableId": "Boron Nitride",
+                              "label": "Boron Nitride",
+                              "checked": true
+                            },
+                            {
+                              "id": "silicon-nitride",
+                              "nodeId": "silicon-nitride",
+                              "humanReadableId": "Silicon Nitride",
+                              "label": "Silicon Nitride",
+                              "checked": true
+                            },
+                            {
+                              "id": "titanium-nitride",
+                              "nodeId": "titanium-nitride",
+                              "humanReadableId": "Titanium Nitride",
+                              "label": "Titanium Nitride",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "silicate-based",
+                          "nodeId": "silicate-based",
+                          "humanReadableId": "Silicate Based",
+                          "label": "Silicate Based",
+                          "checked": true
+                        },
+                        {
+                          "id": "sulfide-based",
+                          "nodeId": "sulfide-based",
+                          "humanReadableId": "Sulfide Based",
+                          "label": "Sulfide Based",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "bismuth-sulfide",
+                              "nodeId": "bismuth-sulfide",
+                              "humanReadableId": "Bismuth Sulfide",
+                              "label": "Bismuth Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "copper-sulfide",
+                              "nodeId": "copper-sulfide",
+                              "humanReadableId": "Copper Sulfide",
+                              "label": "Copper Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "iron-sulfide",
+                              "nodeId": "iron-sulfide",
+                              "humanReadableId": "Iron Sulfide",
+                              "label": "Iron Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "manganese-sulfide",
+                              "nodeId": "manganese-sulfide",
+                              "humanReadableId": "Manganese Sulfide",
+                              "label": "Manganese Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "molybdenum-disulfide",
+                              "nodeId": "molybdenum-disulfide",
+                              "humanReadableId": "Molybdenum Disulfide",
+                              "label": "Molybdenum Disulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "multiphase-metal-sulfide",
+                              "nodeId": "multiphase-metal-sulfide",
+                              "humanReadableId": "Multiphase Metal Sulfide",
+                              "label": "Multiphase Metal Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "tin-sulfide",
+                              "nodeId": "tin-sulfide",
+                              "humanReadableId": "Tin Sulfide",
+                              "label": "Tin Sulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "tungsten-disulfide",
+                              "nodeId": "tungsten-disulfide",
+                              "humanReadableId": "Tungsten Disulfide",
+                              "label": "Tungsten Disulfide",
+                              "checked": true
+                            },
+                            {
+                              "id": "zinc-sulfide",
+                              "nodeId": "zinc-sulfide",
+                              "humanReadableId": "Zinc Sulfide",
+                              "label": "Zinc Sulfide",
+                              "checked": true
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "oxide-based",
+                      "nodeId": "oxide-based",
+                      "humanReadableId": "Oxide Based",
+                      "label": "Oxide Based",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "advanced-ceramic-oxides",
+                          "nodeId": "advanced-ceramic-oxides",
+                          "humanReadableId": "Advanced Ceramic Oxides",
+                          "label": "Advanced Ceramic Oxides",
+                          "checked": true
+                        },
+                        {
+                          "id": "aluminium-oxide",
+                          "nodeId": "aluminium-oxide",
+                          "humanReadableId": "Aluminium Oxide",
+                          "label": "Aluminium Oxide",
+                          "checked": true
+                        },
+                        {
+                          "id": "beryllium-oxide",
+                          "nodeId": "beryllium-oxide",
+                          "humanReadableId": "Beryllium Oxide",
+                          "label": "Beryllium Oxide",
+                          "checked": true
+                        },
+                        {
+                          "id": "ferrite",
+                          "nodeId": "ferrite",
+                          "humanReadableId": "Ferrite",
+                          "label": "Ferrite",
+                          "checked": true
+                        },
+                        {
+                          "id": "silicon-oxide",
+                          "nodeId": "silicon-oxide",
+                          "humanReadableId": "Silicon Oxide",
+                          "label": "Silicon Oxide",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "aluminium-silicate",
+                              "nodeId": "aluminium-silicate",
+                              "humanReadableId": "Aluminium Silicate",
+                              "label": "Aluminium Silicate",
+                              "checked": true
+                            },
+                            {
+                              "id": "magnesium-silicate",
+                              "nodeId": "magnesium-silicate",
+                              "humanReadableId": "Magnesium Silicate",
+                              "label": "Magnesium Silicate",
+                              "checked": true
+                            },
+                            {
+                              "id": "zirconium-silicate",
+                              "nodeId": "zirconium-silicate",
+                              "humanReadableId": "Zirconium Silicate",
+                              "label": "Zirconium Silicate",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "titanium-oxide",
+                          "nodeId": "titanium-oxide",
+                          "humanReadableId": "Titanium Oxide",
+                          "label": "Titanium Oxide",
+                          "checked": true
+                        },
+                        {
+                          "id": "zirconium-oxide",
+                          "nodeId": "zirconium-oxide",
+                          "humanReadableId": "Zirconium Oxide",
+                          "label": "Zirconium Oxide",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "composite",
+              "nodeId": "composite",
+              "humanReadableId": "Composite",
+              "label": "Composite",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 337,
+              "children": [
+                {
+                  "id": "ceramic-matrix-composite",
+                  "nodeId": "ceramic-matrix-composite",
+                  "humanReadableId": "Ceramic Matrix Composite",
+                  "label": "Ceramic Matrix Composite",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "carbide-based-ceramic-matrix-composite",
+                      "nodeId": "carbide-based-ceramic-matrix-composite",
+                      "humanReadableId": "Carbide Based Ceramic Matrix Composite",
+                      "label": "Carbide Based Ceramic Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "oxide-based-ceramic-matrix-composite",
+                      "nodeId": "oxide-based-ceramic-matrix-composite",
+                      "humanReadableId": "Oxide Based Ceramic Matrix Composite",
+                      "label": "Oxide Based Ceramic Matrix Composite",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "metal-matrix-composite",
+                  "nodeId": "metal-matrix-composite",
+                  "humanReadableId": "Metal Matrix Composite",
+                  "label": "Metal Matrix Composite",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "aluminium-matrix-composite",
+                      "nodeId": "aluminium-matrix-composite",
+                      "humanReadableId": "Aluminium Matrix Composite",
+                      "label": "Aluminium Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "beryllium-matrix-composite",
+                      "nodeId": "beryllium-matrix-composite",
+                      "humanReadableId": "Beryllium Matrix Composite",
+                      "label": "Beryllium Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-matrix-composite",
+                      "nodeId": "cobalt-matrix-composite",
+                      "humanReadableId": "Cobalt Matrix Composite",
+                      "label": "Cobalt Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-and-nickel-matrix-composite",
+                      "nodeId": "cobalt-and-nickel-matrix-composite",
+                      "humanReadableId": "Cobalt and Nickel Matrix Composite",
+                      "label": "Cobalt and Nickel Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "iron-matrix-composite",
+                      "nodeId": "iron-matrix-composite",
+                      "humanReadableId": "Iron Matrix Composite",
+                      "label": "Iron Matrix Composite",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-matrix-composite",
+                      "nodeId": "nickel-matrix-composite",
+                      "humanReadableId": "Nickel Matrix Composite",
+                      "label": "Nickel Matrix Composite",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "polymer-matrix-composite",
+                  "nodeId": "polymer-matrix-composite",
+                  "humanReadableId": "Polymer Matrix Composite",
+                  "label": "Polymer Matrix Composite",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "thermoset-polymer-matrix-composite",
+                      "nodeId": "thermoset-polymer-matrix-composite",
+                      "humanReadableId": "Thermoset Polymer Matrix Composite",
+                      "label": "Thermoset Polymer Matrix Composite",
+                      "checked": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "glass",
+              "nodeId": "glass",
+              "humanReadableId": "Glass",
+              "label": "Glass",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 367,
+              "children": [
+                {
+                  "id": "glass-ceramic",
+                  "nodeId": "glass-ceramic",
+                  "humanReadableId": "Glass Ceramic",
+                  "label": "Glass Ceramic",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "las-glass-ceramic",
+                      "nodeId": "las-glass-ceramic",
+                      "humanReadableId": "LAS Glass Ceramic",
+                      "label": "LAS Glass Ceramic",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "lead-glass",
+                  "nodeId": "lead-glass",
+                  "humanReadableId": "Lead Glass",
+                  "label": "Lead Glass",
+                  "checked": true
+                },
+                {
+                  "id": "silicate-glass",
+                  "nodeId": "silicate-glass",
+                  "humanReadableId": "Silicate Glass",
+                  "label": "Silicate Glass",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "aluminosilicate",
+                      "nodeId": "aluminosilicate",
+                      "humanReadableId": "Aluminosilicate",
+                      "label": "Aluminosilicate",
+                      "checked": true
+                    },
+                    {
+                      "id": "borosilicate",
+                      "nodeId": "borosilicate",
+                      "humanReadableId": "Borosilicate",
+                      "label": "Borosilicate",
+                      "checked": true
+                    },
+                    {
+                      "id": "fused-quartz",
+                      "nodeId": "fused-quartz",
+                      "humanReadableId": "Fused Quartz",
+                      "label": "Fused Quartz",
+                      "checked": true
+                    },
+                    {
+                      "id": "soda-lime-silicate",
+                      "nodeId": "soda-lime-silicate",
+                      "humanReadableId": "Soda Lime Silicate",
+                      "label": "Soda Lime Silicate",
+                      "checked": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "metal",
+              "nodeId": "metal",
+              "humanReadableId": "Metal",
+              "label": "Metal",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 23873,
+              "children": [
+                {
+                  "id": "aluminium",
+                  "nodeId": "aluminium",
+                  "humanReadableId": "Aluminium",
+                  "label": "Aluminium",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "aluminium-master-alloy",
+                      "nodeId": "aluminium-master-alloy",
+                      "humanReadableId": "Aluminium Master Alloy",
+                      "label": "Aluminium Master Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-aluminium",
+                      "nodeId": "cast-aluminium",
+                      "humanReadableId": "Cast Aluminium",
+                      "label": "Cast Aluminium",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "1xx-x",
+                          "nodeId": "1xx-x",
+                          "humanReadableId": "1xx.x",
+                          "label": "1xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "2xx-x",
+                          "nodeId": "2xx-x",
+                          "humanReadableId": "2xx.x",
+                          "label": "2xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "3xx-x",
+                          "nodeId": "3xx-x",
+                          "humanReadableId": "3xx.x",
+                          "label": "3xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "4xx-x",
+                          "nodeId": "4xx-x",
+                          "humanReadableId": "4xx.x",
+                          "label": "4xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "5xx-x",
+                          "nodeId": "5xx-x",
+                          "humanReadableId": "5xx.x",
+                          "label": "5xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "7xx-x",
+                          "nodeId": "7xx-x",
+                          "humanReadableId": "7xx.x",
+                          "label": "7xx.x",
+                          "checked": true
+                        },
+                        {
+                          "id": "8xx-x",
+                          "nodeId": "8xx-x",
+                          "humanReadableId": "8xx.x",
+                          "label": "8xx.x",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "wrought-aluminium",
+                      "nodeId": "wrought-aluminium",
+                      "humanReadableId": "Wrought Aluminium",
+                      "label": "Wrought Aluminium",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "1000-series",
+                          "nodeId": "1000-series",
+                          "humanReadableId": "1000 Series",
+                          "label": "1000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "2000-series",
+                          "nodeId": "2000-series",
+                          "humanReadableId": "2000 Series",
+                          "label": "2000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "3000-series",
+                          "nodeId": "3000-series",
+                          "humanReadableId": "3000 Series",
+                          "label": "3000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "4000-series",
+                          "nodeId": "4000-series",
+                          "humanReadableId": "4000 Series",
+                          "label": "4000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "5000-series",
+                          "nodeId": "5000-series",
+                          "humanReadableId": "5000 Series",
+                          "label": "5000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "6000-series",
+                          "nodeId": "6000-series",
+                          "humanReadableId": "6000 Series",
+                          "label": "6000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "7000-series",
+                          "nodeId": "7000-series",
+                          "humanReadableId": "7000 Series",
+                          "label": "7000 Series",
+                          "checked": true
+                        },
+                        {
+                          "id": "8000-series",
+                          "nodeId": "8000-series",
+                          "humanReadableId": "8000 Series",
+                          "label": "8000 Series",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "clad---bimetal",
+                  "nodeId": "clad---bimetal",
+                  "humanReadableId": "Clad / Bimetal",
+                  "label": "Clad / Bimetal",
+                  "checked": true
+                },
+                {
+                  "id": "cobalt",
+                  "nodeId": "cobalt",
+                  "humanReadableId": "Cobalt",
+                  "label": "Cobalt",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "cobalt-chromium",
+                      "nodeId": "cobalt-chromium",
+                      "humanReadableId": "Cobalt Chromium",
+                      "label": "Cobalt Chromium",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-chromium-molybdenum",
+                      "nodeId": "cobalt-chromium-molybdenum",
+                      "humanReadableId": "Cobalt Chromium Molybdenum",
+                      "label": "Cobalt Chromium Molybdenum",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-chromium-nickel-tungsten",
+                      "nodeId": "cobalt-chromium-nickel-tungsten",
+                      "humanReadableId": "Cobalt Chromium Nickel Tungsten",
+                      "label": "Cobalt Chromium Nickel Tungsten",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-chromium-tungsten",
+                      "nodeId": "cobalt-chromium-tungsten",
+                      "humanReadableId": "Cobalt Chromium Tungsten",
+                      "label": "Cobalt Chromium Tungsten",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-nickel-chromium-molybdenum",
+                      "nodeId": "cobalt-nickel-chromium-molybdenum",
+                      "humanReadableId": "Cobalt Nickel Chromium Molybdenum",
+                      "label": "Cobalt Nickel Chromium Molybdenum",
+                      "checked": true
+                    },
+                    {
+                      "id": "cobalt-superalloy",
+                      "nodeId": "cobalt-superalloy",
+                      "humanReadableId": "Cobalt Superalloy",
+                      "label": "Cobalt Superalloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "unclassified-cobalt-alloy",
+                      "nodeId": "unclassified-cobalt-alloy",
+                      "humanReadableId": "Unclassified Cobalt Alloy",
+                      "label": "Unclassified Cobalt Alloy",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "copper",
+                  "nodeId": "copper",
+                  "humanReadableId": "Copper",
+                  "label": "Copper",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "cast-copper",
+                      "nodeId": "cast-copper",
+                      "humanReadableId": "Cast Copper",
+                      "label": "Cast Copper",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "cast-copper-brass",
+                          "nodeId": "cast-copper-brass",
+                          "humanReadableId": "Cast Copper Brass",
+                          "label": "Cast Copper Brass",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "cast-copper-brass-yellow-brass",
+                              "nodeId": "cast-copper-brass-yellow-brass",
+                              "humanReadableId": "Cast Copper Brass Yellow Brass",
+                              "label": "Cast Copper Brass Yellow Brass",
+                              "checked": true
+                            },
+                            {
+                              "id": "cast-copper-silicon-brass",
+                              "nodeId": "cast-copper-silicon-brass",
+                              "humanReadableId": "Cast Copper Silicon Brass",
+                              "label": "Cast Copper Silicon Brass",
+                              "checked": true
+                            },
+                            {
+                              "id": "copper-bismuth-alloy",
+                              "nodeId": "copper-bismuth-alloy",
+                              "humanReadableId": "Copper Bismuth Alloy",
+                              "label": "Copper Bismuth Alloy",
+                              "checked": true
+                            },
+                            {
+                              "id": "red-brass",
+                              "nodeId": "red-brass",
+                              "humanReadableId": "Red Brass",
+                              "label": "Red Brass",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "cast-copper-bronze",
+                          "nodeId": "cast-copper-bronze",
+                          "humanReadableId": "Cast Copper Bronze",
+                          "label": "Cast Copper Bronze",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "cast-copper-bronze-aluminium-bronze",
+                              "nodeId": "cast-copper-bronze-aluminium-bronze",
+                              "humanReadableId": "Cast Copper Bronze Aluminium Bronze",
+                              "label": "Cast Copper Bronze Aluminium Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "leaded-tin-bronze",
+                              "nodeId": "leaded-tin-bronze",
+                              "humanReadableId": "Leaded Tin Bronze",
+                              "label": "Leaded Tin Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "nickel-tin-bronze",
+                              "nodeId": "nickel-tin-bronze",
+                              "humanReadableId": "Nickel Tin Bronze",
+                              "label": "Nickel Tin Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "tin-bronze",
+                              "nodeId": "tin-bronze",
+                              "humanReadableId": "Tin Bronze",
+                              "label": "Tin Bronze",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "cast-copper-high-copper-alloy",
+                          "nodeId": "cast-copper-high-copper-alloy",
+                          "humanReadableId": "Cast Copper High Copper Alloy",
+                          "label": "Cast Copper High Copper Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "cast-copper-nickel-grade",
+                          "nodeId": "cast-copper-nickel-grade",
+                          "humanReadableId": "Cast Copper Nickel Grade",
+                          "label": "Cast Copper Nickel Grade",
+                          "checked": true
+                        },
+                        {
+                          "id": "cast-copper-nickel-silver-grade",
+                          "nodeId": "cast-copper-nickel-silver-grade",
+                          "humanReadableId": "Cast Copper Nickel Silver Grade",
+                          "label": "Cast Copper Nickel Silver Grade",
+                          "checked": true
+                        },
+                        {
+                          "id": "cast-copper-pure---low-alloyed-copper",
+                          "nodeId": "cast-copper-pure---low-alloyed-copper",
+                          "humanReadableId": "Cast Copper Pure / Low Alloyed Copper",
+                          "label": "Cast Copper Pure / Low Alloyed Copper",
+                          "checked": true
+                        },
+                        {
+                          "id": "copper-lead-alloy",
+                          "nodeId": "copper-lead-alloy",
+                          "humanReadableId": "Copper-Lead Alloy",
+                          "label": "Copper-Lead Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "special-alloy",
+                          "nodeId": "special-alloy",
+                          "humanReadableId": "Special Alloy",
+                          "label": "Special Alloy",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "welding",
+                      "nodeId": "welding",
+                      "humanReadableId": "Welding",
+                      "label": "Welding",
+                      "checked": true
+                    },
+                    {
+                      "id": "wrought-copper",
+                      "nodeId": "wrought-copper",
+                      "humanReadableId": "Wrought Copper",
+                      "label": "Wrought Copper",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "unclassified-wrought-copper",
+                          "nodeId": "unclassified-wrought-copper",
+                          "humanReadableId": "Unclassified Wrought Copper",
+                          "label": "Unclassified Wrought Copper",
+                          "checked": true
+                        },
+                        {
+                          "id": "wrought-copper-brass",
+                          "nodeId": "wrought-copper-brass",
+                          "humanReadableId": "Wrought Copper Brass",
+                          "label": "Wrought Copper Brass",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "leaded-brass",
+                              "nodeId": "leaded-brass",
+                              "humanReadableId": "Leaded Brass",
+                              "label": "Leaded Brass",
+                              "checked": true
+                            },
+                            {
+                              "id": "other-copper-zinc-alloy",
+                              "nodeId": "other-copper-zinc-alloy",
+                              "humanReadableId": "Other Copper Zinc Alloy",
+                              "label": "Other Copper Zinc Alloy",
+                              "checked": true
+                            },
+                            {
+                              "id": "tin-brass",
+                              "nodeId": "tin-brass",
+                              "humanReadableId": "Tin Brass",
+                              "label": "Tin Brass",
+                              "checked": true
+                            },
+                            {
+                              "id": "wrought-copper-brass-yellow-brass",
+                              "nodeId": "wrought-copper-brass-yellow-brass",
+                              "humanReadableId": "Wrought Copper Brass Yellow Brass",
+                              "label": "Wrought Copper Brass Yellow Brass",
+                              "checked": true
+                            },
+                            {
+                              "id": "yellow-wrought-brass",
+                              "nodeId": "yellow-wrought-brass",
+                              "humanReadableId": "Yellow Wrought Brass",
+                              "label": "Yellow Wrought Brass",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "wrought-copper-bronze",
+                          "nodeId": "wrought-copper-bronze",
+                          "humanReadableId": "Wrought Copper Bronze",
+                          "label": "Wrought Copper Bronze",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "copper-silver-zinc-alloy",
+                              "nodeId": "copper-silver-zinc-alloy",
+                              "humanReadableId": "Copper Silver Zinc Alloy",
+                              "label": "Copper Silver Zinc Alloy",
+                              "checked": true
+                            },
+                            {
+                              "id": "leaded-phosphor-bronze",
+                              "nodeId": "leaded-phosphor-bronze",
+                              "humanReadableId": "Leaded Phosphor Bronze",
+                              "label": "Leaded Phosphor Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "other-copper-zinc-alloy",
+                              "nodeId": "other-copper-zinc-alloy-",
+                              "humanReadableId": "Other Copper Zinc Alloy",
+                              "label": "Other Copper Zinc Alloy",
+                              "checked": true
+                            },
+                            {
+                              "id": "phosphor-bronze",
+                              "nodeId": "phosphor-bronze",
+                              "humanReadableId": "Phosphor Bronze",
+                              "label": "Phosphor Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "wrought-copper-bronze-aluminium-bronze",
+                              "nodeId": "wrought-copper-bronze-aluminium-bronze",
+                              "humanReadableId": "Wrought Copper Bronze Aluminium Bronze",
+                              "label": "Wrought Copper Bronze Aluminium Bronze",
+                              "checked": true
+                            },
+                            {
+                              "id": "wrought-copper-bronze-silicon-bronze",
+                              "nodeId": "wrought-copper-bronze-silicon-bronze",
+                              "humanReadableId": "Wrought Copper Bronze Silicon Bronze",
+                              "label": "Wrought Copper Bronze Silicon Bronze",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "wrought-copper-high-copper-alloy",
+                          "nodeId": "wrought-copper-high-copper-alloy",
+                          "humanReadableId": "Wrought Copper High Copper Alloy",
+                          "label": "Wrought Copper High Copper Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "wrought-copper-nickel-grade",
+                          "nodeId": "wrought-copper-nickel-grade",
+                          "humanReadableId": "Wrought Copper Nickel Grade",
+                          "label": "Wrought Copper Nickel Grade",
+                          "checked": true
+                        },
+                        {
+                          "id": "wrought-copper-nickel-silver-grade",
+                          "nodeId": "wrought-copper-nickel-silver-grade",
+                          "humanReadableId": "Wrought Copper Nickel Silver Grade",
+                          "label": "Wrought Copper Nickel Silver Grade",
+                          "checked": true
+                        },
+                        {
+                          "id": "wrought-copper-pure---low-alloyed-copper",
+                          "nodeId": "wrought-copper-pure---low-alloyed-copper",
+                          "humanReadableId": "Wrought Copper Pure / Low Alloyed Copper",
+                          "label": "Wrought Copper Pure / Low Alloyed Copper",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "iron",
+                  "nodeId": "iron",
+                  "humanReadableId": "Iron",
+                  "label": "Iron",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "alloy-iron",
+                      "nodeId": "alloy-iron",
+                      "humanReadableId": "Alloy Iron",
+                      "label": "Alloy Iron",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-iron",
+                      "nodeId": "cast-iron",
+                      "humanReadableId": "Cast Iron",
+                      "label": "Cast Iron",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "ductile--nodular--cast-iron",
+                          "nodeId": "ductile--nodular--cast-iron",
+                          "humanReadableId": "Ductile (Nodular) Cast Iron",
+                          "label": "Ductile (Nodular) Cast Iron",
+                          "checked": true
+                        },
+                        {
+                          "id": "grey-cast-iron",
+                          "nodeId": "grey-cast-iron",
+                          "humanReadableId": "Grey Cast Iron",
+                          "label": "Grey Cast Iron",
+                          "checked": true
+                        },
+                        {
+                          "id": "malleable-cast-iron",
+                          "nodeId": "malleable-cast-iron",
+                          "humanReadableId": "Malleable Cast Iron",
+                          "label": "Malleable Cast Iron",
+                          "checked": true
+                        },
+                        {
+                          "id": "other-cast-iron-alloy",
+                          "nodeId": "other-cast-iron-alloy",
+                          "humanReadableId": "Other Cast Iron Alloy",
+                          "label": "Other Cast Iron Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "white-cast-iron",
+                          "nodeId": "white-cast-iron",
+                          "humanReadableId": "White Cast Iron",
+                          "label": "White Cast Iron",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ferromolybdenum",
+                      "nodeId": "ferromolybdenum",
+                      "humanReadableId": "Ferromolybdenum",
+                      "label": "Ferromolybdenum",
+                      "checked": true
+                    },
+                    {
+                      "id": "ferrosilicon",
+                      "nodeId": "ferrosilicon",
+                      "humanReadableId": "Ferrosilicon",
+                      "label": "Ferrosilicon",
+                      "checked": true
+                    },
+                    {
+                      "id": "ferrovanadium",
+                      "nodeId": "ferrovanadium",
+                      "humanReadableId": "Ferrovanadium",
+                      "label": "Ferrovanadium",
+                      "checked": true
+                    },
+                    {
+                      "id": "iron-alloy",
+                      "nodeId": "iron-alloy",
+                      "humanReadableId": "Iron Alloy",
+                      "label": "Iron Alloy",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "aluminium-nickel-cobalt-iron-alloy",
+                          "nodeId": "aluminium-nickel-cobalt-iron-alloy",
+                          "humanReadableId": "Aluminium Nickel Cobalt Iron Alloy",
+                          "label": "Aluminium Nickel Cobalt Iron Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "miscellaneous-iron-alloy",
+                          "nodeId": "miscellaneous-iron-alloy",
+                          "humanReadableId": "Miscellaneous Iron Alloy",
+                          "label": "Miscellaneous Iron Alloy",
+                          "checked": true
+                        },
+                        {
+                          "id": "soft-magnetic-iron",
+                          "nodeId": "soft-magnetic-iron",
+                          "humanReadableId": "Soft Magnetic Iron",
+                          "label": "Soft Magnetic Iron",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "malleable-cast-iron",
+                      "nodeId": "malleable-cast-iron-",
+                      "humanReadableId": "Malleable Cast Iron",
+                      "label": "Malleable Cast Iron",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "magnesium",
+                  "nodeId": "magnesium",
+                  "humanReadableId": "Magnesium",
+                  "label": "Magnesium",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "aluminium-grade",
+                      "nodeId": "aluminium-grade",
+                      "humanReadableId": "Aluminium Grade",
+                      "label": "Aluminium Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-aluminium-manganese-grade",
+                      "nodeId": "cast-aluminium-manganese-grade",
+                      "humanReadableId": "Cast Aluminium Manganese Grade",
+                      "label": "Cast Aluminium Manganese Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-rare-earth-grade",
+                      "nodeId": "cast-rare-earth-grade",
+                      "humanReadableId": "Cast Rare Earth Grade",
+                      "label": "Cast Rare Earth Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-wrought-aluminium-zinc-grade",
+                      "nodeId": "cast-wrought-aluminium-zinc-grade",
+                      "humanReadableId": "Cast/Wrought Aluminium Zinc Grade",
+                      "label": "Cast/Wrought Aluminium Zinc Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "cast-wrought-unclassified-grade",
+                      "nodeId": "cast-wrought-unclassified-grade",
+                      "humanReadableId": "Cast/Wrought Unclassified Grade",
+                      "label": "Cast/Wrought Unclassified Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "pure-magnesium",
+                      "nodeId": "pure-magnesium",
+                      "humanReadableId": "Pure Magnesium",
+                      "label": "Pure Magnesium",
+                      "checked": true
+                    },
+                    {
+                      "id": "rare-earth-grade",
+                      "nodeId": "rare-earth-grade",
+                      "humanReadableId": "Rare Earth Grade",
+                      "label": "Rare Earth Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "wrought-zinc-grade",
+                      "nodeId": "wrought-zinc-grade",
+                      "humanReadableId": "Wrought Zinc Grade",
+                      "label": "Wrought Zinc Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "yttrium-grade",
+                      "nodeId": "yttrium-grade",
+                      "humanReadableId": "Yttrium Grade",
+                      "label": "Yttrium Grade",
+                      "checked": true
+                    },
+                    {
+                      "id": "zinc-grade",
+                      "nodeId": "zinc-grade",
+                      "humanReadableId": "Zinc Grade",
+                      "label": "Zinc Grade",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "manganese",
+                  "nodeId": "manganese",
+                  "humanReadableId": "Manganese",
+                  "label": "Manganese",
+                  "checked": true
+                },
+                {
+                  "id": "nickel",
+                  "nodeId": "nickel",
+                  "humanReadableId": "Nickel",
+                  "label": "Nickel",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "nickel-chromium-alloy",
+                      "nodeId": "nickel-chromium-alloy",
+                      "humanReadableId": "Nickel Chromium Alloy",
+                      "label": "Nickel Chromium Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-chromium-cobalt-alloy",
+                      "nodeId": "nickel-chromium-cobalt-alloy",
+                      "humanReadableId": "Nickel Chromium Cobalt Alloy",
+                      "label": "Nickel Chromium Cobalt Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-chromium-iron-alloy",
+                      "nodeId": "nickel-chromium-iron-alloy",
+                      "humanReadableId": "Nickel Chromium Iron Alloy",
+                      "label": "Nickel Chromium Iron Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-chromium-molybdenum-alloy",
+                      "nodeId": "nickel-chromium-molybdenum-alloy",
+                      "humanReadableId": "Nickel Chromium Molybdenum Alloy",
+                      "label": "Nickel Chromium Molybdenum Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-cobalt-alloy",
+                      "nodeId": "nickel-cobalt-alloy",
+                      "humanReadableId": "Nickel Cobalt Alloy",
+                      "label": "Nickel Cobalt Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-copper-alloy",
+                      "nodeId": "nickel-copper-alloy",
+                      "humanReadableId": "Nickel Copper Alloy",
+                      "label": "Nickel Copper Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-iron-alloy",
+                      "nodeId": "nickel-iron-alloy",
+                      "humanReadableId": "Nickel Iron Alloy",
+                      "label": "Nickel Iron Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-molybdenum-alloy",
+                      "nodeId": "nickel-molybdenum-alloy",
+                      "humanReadableId": "Nickel Molybdenum Alloy",
+                      "label": "Nickel Molybdenum Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-superalloy",
+                      "nodeId": "nickel-superalloy",
+                      "humanReadableId": "Nickel Superalloy",
+                      "label": "Nickel Superalloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "nickel-welding-filler",
+                      "nodeId": "nickel-welding-filler",
+                      "humanReadableId": "Nickel Welding Filler",
+                      "label": "Nickel Welding Filler",
+                      "checked": true
+                    },
+                    {
+                      "id": "other-nickel-alloy",
+                      "nodeId": "other-nickel-alloy",
+                      "humanReadableId": "Other Nickel Alloy",
+                      "label": "Other Nickel Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "pure-low-nickel-alloy",
+                      "nodeId": "pure-low-nickel-alloy",
+                      "humanReadableId": "Pure/Low Nickel Alloy",
+                      "label": "Pure/Low Nickel Alloy",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "noble-metal",
+                  "nodeId": "noble-metal",
+                  "humanReadableId": "Noble Metal",
+                  "label": "Noble Metal",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "gold",
+                      "nodeId": "gold",
+                      "humanReadableId": "Gold",
+                      "label": "Gold",
+                      "checked": true
+                    },
+                    {
+                      "id": "iridium",
+                      "nodeId": "iridium",
+                      "humanReadableId": "Iridium",
+                      "label": "Iridium",
+                      "checked": true
+                    },
+                    {
+                      "id": "palladium",
+                      "nodeId": "palladium",
+                      "humanReadableId": "Palladium",
+                      "label": "Palladium",
+                      "checked": true
+                    },
+                    {
+                      "id": "platinum",
+                      "nodeId": "platinum",
+                      "humanReadableId": "Platinum",
+                      "label": "Platinum",
+                      "checked": true
+                    },
+                    {
+                      "id": "rhodium",
+                      "nodeId": "rhodium",
+                      "humanReadableId": "Rhodium",
+                      "label": "Rhodium",
+                      "checked": true
+                    },
+                    {
+                      "id": "silver",
+                      "nodeId": "silver",
+                      "humanReadableId": "Silver",
+                      "label": "Silver",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "other-metal",
+                  "nodeId": "other-metal",
+                  "humanReadableId": "Other Metal",
+                  "label": "Other Metal",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "beryllium",
+                      "nodeId": "beryllium",
+                      "humanReadableId": "Beryllium",
+                      "label": "Beryllium",
+                      "checked": true
+                    },
+                    {
+                      "id": "cadmium",
+                      "nodeId": "cadmium",
+                      "humanReadableId": "Cadmium",
+                      "label": "Cadmium",
+                      "checked": true
+                    },
+                    {
+                      "id": "chromium",
+                      "nodeId": "chromium",
+                      "humanReadableId": "Chromium",
+                      "label": "Chromium",
+                      "checked": true
+                    },
+                    {
+                      "id": "lead",
+                      "nodeId": "lead",
+                      "humanReadableId": "Lead",
+                      "label": "Lead",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "lead-antimony",
+                          "nodeId": "lead-antimony",
+                          "humanReadableId": "Lead Antimony",
+                          "label": "Lead Antimony",
+                          "checked": true
+                        },
+                        {
+                          "id": "lead-tin",
+                          "nodeId": "lead-tin",
+                          "humanReadableId": "Lead Tin",
+                          "label": "Lead Tin",
+                          "checked": true
+                        },
+                        {
+                          "id": "pure-low-alloyed-lead",
+                          "nodeId": "pure-low-alloyed-lead",
+                          "humanReadableId": "Pure/Low Alloyed Lead",
+                          "label": "Pure/Low Alloyed Lead",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lithium",
+                      "nodeId": "lithium",
+                      "humanReadableId": "Lithium",
+                      "label": "Lithium",
+                      "checked": true
+                    },
+                    {
+                      "id": "neodymium",
+                      "nodeId": "neodymium",
+                      "humanReadableId": "Neodymium",
+                      "label": "Neodymium",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "neodymium-iron-boron-alloy",
+                          "nodeId": "neodymium-iron-boron-alloy",
+                          "humanReadableId": "Neodymium Iron Boron Alloy",
+                          "label": "Neodymium Iron Boron Alloy",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "samarium",
+                      "nodeId": "samarium",
+                      "humanReadableId": "Samarium",
+                      "label": "Samarium",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "samarium-cobalt-alloy",
+                          "nodeId": "samarium-cobalt-alloy",
+                          "humanReadableId": "Samarium Cobalt Alloy",
+                          "label": "Samarium Cobalt Alloy",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "tin",
+                      "nodeId": "tin",
+                      "humanReadableId": "Tin",
+                      "label": "Tin",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "pure-low-alloyed-tin",
+                          "nodeId": "pure-low-alloyed-tin",
+                          "humanReadableId": "Pure/Low Alloyed Tin",
+                          "label": "Pure/Low Alloyed Tin",
+                          "checked": true
+                        },
+                        {
+                          "id": "tin-antimony",
+                          "nodeId": "tin-antimony",
+                          "humanReadableId": "Tin Antimony",
+                          "label": "Tin Antimony",
+                          "checked": true
+                        },
+                        {
+                          "id": "tin-lead",
+                          "nodeId": "tin-lead",
+                          "humanReadableId": "Tin Lead",
+                          "label": "Tin Lead",
+                          "checked": true
+                        },
+                        {
+                          "id": "unclassified-tin",
+                          "nodeId": "unclassified-tin",
+                          "humanReadableId": "Unclassified Tin",
+                          "label": "Unclassified Tin",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "zinc",
+                      "nodeId": "zinc",
+                      "humanReadableId": "Zinc",
+                      "label": "Zinc",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "unalloyed-zinc",
+                          "nodeId": "unalloyed-zinc",
+                          "humanReadableId": "Unalloyed Zinc",
+                          "label": "Unalloyed Zinc",
+                          "checked": true
+                        },
+                        {
+                          "id": "unclassified-zinc",
+                          "nodeId": "unclassified-zinc",
+                          "humanReadableId": "Unclassified Zinc",
+                          "label": "Unclassified Zinc",
+                          "checked": true
+                        },
+                        {
+                          "id": "zinc-aluminium",
+                          "nodeId": "zinc-aluminium",
+                          "humanReadableId": "Zinc Aluminium",
+                          "label": "Zinc Aluminium",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "refractory-metal",
+                  "nodeId": "refractory-metal",
+                  "humanReadableId": "Refractory Metal",
+                  "label": "Refractory Metal",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "hafnium",
+                      "nodeId": "hafnium",
+                      "humanReadableId": "Hafnium",
+                      "label": "Hafnium",
+                      "checked": true
+                    },
+                    {
+                      "id": "molybdenum",
+                      "nodeId": "molybdenum",
+                      "humanReadableId": "Molybdenum",
+                      "label": "Molybdenum",
+                      "checked": true
+                    },
+                    {
+                      "id": "niobium",
+                      "nodeId": "niobium",
+                      "humanReadableId": "Niobium",
+                      "label": "Niobium",
+                      "checked": true
+                    },
+                    {
+                      "id": "rhenium",
+                      "nodeId": "rhenium",
+                      "humanReadableId": "Rhenium",
+                      "label": "Rhenium",
+                      "checked": true
+                    },
+                    {
+                      "id": "tantalum",
+                      "nodeId": "tantalum",
+                      "humanReadableId": "Tantalum",
+                      "label": "Tantalum",
+                      "checked": true
+                    },
+                    {
+                      "id": "tungsten",
+                      "nodeId": "tungsten",
+                      "humanReadableId": "Tungsten",
+                      "label": "Tungsten",
+                      "checked": true
+                    },
+                    {
+                      "id": "vanadium",
+                      "nodeId": "vanadium",
+                      "humanReadableId": "Vanadium",
+                      "label": "Vanadium",
+                      "checked": true
+                    },
+                    {
+                      "id": "zirconium",
+                      "nodeId": "zirconium",
+                      "humanReadableId": "Zirconium",
+                      "label": "Zirconium",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "steel",
+                  "nodeId": "steel",
+                  "humanReadableId": "Steel",
+                  "label": "Steel",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "alloy-steel",
+                      "nodeId": "alloy-steel",
+                      "humanReadableId": "Alloy Steel",
+                      "label": "Alloy Steel",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "chromium-molybdenum-steel",
+                          "nodeId": "chromium-molybdenum-steel",
+                          "humanReadableId": "Chromium Molybdenum Steel",
+                          "label": "Chromium Molybdenum Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "chromium-molybdenum-vanadium-steel",
+                          "nodeId": "chromium-molybdenum-vanadium-steel",
+                          "humanReadableId": "Chromium Molybdenum Vanadium Steel",
+                          "label": "Chromium Molybdenum Vanadium Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "chromium-steel",
+                          "nodeId": "chromium-steel",
+                          "humanReadableId": "Chromium Steel",
+                          "label": "Chromium Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "chromium-vanadium-steel",
+                          "nodeId": "chromium-vanadium-steel",
+                          "humanReadableId": "Chromium Vanadium Steel",
+                          "label": "Chromium Vanadium Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "manganese-steel",
+                          "nodeId": "manganese-steel",
+                          "humanReadableId": "Manganese Steel",
+                          "label": "Manganese Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "molybdenum-steel",
+                          "nodeId": "molybdenum-steel",
+                          "humanReadableId": "Molybdenum Steel",
+                          "label": "Molybdenum Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "nickel-chromium-molybdenum-steel",
+                          "nodeId": "nickel-chromium-molybdenum-steel",
+                          "humanReadableId": "Nickel Chromium Molybdenum Steel",
+                          "label": "Nickel Chromium Molybdenum Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "nickel-chromium-steel",
+                          "nodeId": "nickel-chromium-steel",
+                          "humanReadableId": "Nickel Chromium Steel",
+                          "label": "Nickel Chromium Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "nickel-molybdenum-steel",
+                          "nodeId": "nickel-molybdenum-steel",
+                          "humanReadableId": "Nickel Molybdenum Steel",
+                          "label": "Nickel Molybdenum Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "nickel-steel",
+                          "nodeId": "nickel-steel",
+                          "humanReadableId": "Nickel Steel",
+                          "label": "Nickel Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "nitriding-steel",
+                          "nodeId": "nitriding-steel",
+                          "humanReadableId": "Nitriding Steel",
+                          "label": "Nitriding Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "silicon-manganese-steel",
+                          "nodeId": "silicon-manganese-steel",
+                          "humanReadableId": "Silicon Manganese Steel",
+                          "label": "Silicon Manganese Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "silicon-steel",
+                          "nodeId": "silicon-steel",
+                          "humanReadableId": "Silicon Steel",
+                          "label": "Silicon Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "unclassified-low-alloy-steel",
+                          "nodeId": "unclassified-low-alloy-steel",
+                          "humanReadableId": "Unclassified Low Alloy Steel",
+                          "label": "Unclassified Low Alloy Steel",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "carbon-steel",
+                      "nodeId": "carbon-steel",
+                      "humanReadableId": "Carbon Steel",
+                      "label": "Carbon Steel",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "high-carbon-steel",
+                          "nodeId": "high-carbon-steel",
+                          "humanReadableId": "High Carbon Steel",
+                          "label": "High Carbon Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "low-carbon-steel",
+                          "nodeId": "low-carbon-steel",
+                          "humanReadableId": "Low Carbon Steel",
+                          "label": "Low Carbon Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "medium-carbon-steel",
+                          "nodeId": "medium-carbon-steel",
+                          "humanReadableId": "Medium Carbon Steel",
+                          "label": "Medium Carbon Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "unclassified-carbon-steel",
+                          "nodeId": "unclassified-carbon-steel",
+                          "humanReadableId": "Unclassified Carbon Steel",
+                          "label": "Unclassified Carbon Steel",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "low-alloy-steel",
+                      "nodeId": "low-alloy-steel",
+                      "humanReadableId": "Low Alloy Steel",
+                      "label": "Low Alloy Steel",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "low-carbon-steel",
+                          "nodeId": "low-carbon-steel-",
+                          "humanReadableId": "Low Carbon Steel",
+                          "label": "Low Carbon Steel",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "maraging-steel",
+                      "nodeId": "maraging-steel",
+                      "humanReadableId": "Maraging Steel",
+                      "label": "Maraging Steel",
+                      "checked": true
+                    },
+                    {
+                      "id": "stainless-steel",
+                      "nodeId": "stainless-steel",
+                      "humanReadableId": "Stainless Steel",
+                      "label": "Stainless Steel",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "austenitic-stainless-steel",
+                          "nodeId": "austenitic-stainless-steel",
+                          "humanReadableId": "Austenitic Stainless Steel",
+                          "label": "Austenitic Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "duplex-stainless-steel",
+                          "nodeId": "duplex-stainless-steel",
+                          "humanReadableId": "Duplex Stainless Steel",
+                          "label": "Duplex Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "ferritic-stainless-steel",
+                          "nodeId": "ferritic-stainless-steel",
+                          "humanReadableId": "Ferritic Stainless Steel",
+                          "label": "Ferritic Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "martensitic-stainless-steel",
+                          "nodeId": "martensitic-stainless-steel",
+                          "humanReadableId": "Martensitic Stainless Steel",
+                          "label": "Martensitic Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "precipitation-hardening-stainless-steel",
+                          "nodeId": "precipitation-hardening-stainless-steel",
+                          "humanReadableId": "Precipitation Hardening Stainless Steel",
+                          "label": "Precipitation Hardening Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "superaustenitic-stainless-steel",
+                          "nodeId": "superaustenitic-stainless-steel",
+                          "humanReadableId": "Superaustenitic Stainless Steel",
+                          "label": "Superaustenitic Stainless Steel",
+                          "checked": true
+                        },
+                        {
+                          "id": "unclassified-stainless-steel",
+                          "nodeId": "unclassified-stainless-steel",
+                          "humanReadableId": "Unclassified Stainless Steel",
+                          "label": "Unclassified Stainless Steel",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "tool-and-machining-steel",
+                      "nodeId": "tool-and-machining-steel",
+                      "humanReadableId": "Tool And Machining Steel",
+                      "label": "Tool And Machining Steel",
+                      "checked": true
+                    }
+                  ]
+                },
+                {
+                  "id": "titanium",
+                  "nodeId": "titanium",
+                  "humanReadableId": "Titanium",
+                  "label": "Titanium",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "alpha-alloy",
+                      "nodeId": "alpha-alloy",
+                      "humanReadableId": "Alpha Alloy",
+                      "label": "Alpha Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "alpha-beta-alloy",
+                      "nodeId": "alpha-beta-alloy",
+                      "humanReadableId": "Alpha Beta Alloy",
+                      "label": "Alpha Beta Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "beta-alloy",
+                      "nodeId": "beta-alloy",
+                      "humanReadableId": "Beta Alloy",
+                      "label": "Beta Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "low-alloy-titanium",
+                      "nodeId": "low-alloy-titanium",
+                      "humanReadableId": "Low Alloy Titanium",
+                      "label": "Low Alloy Titanium",
+                      "checked": true
+                    },
+                    {
+                      "id": "near-alpha-alloy",
+                      "nodeId": "near-alpha-alloy",
+                      "humanReadableId": "Near Alpha Alloy",
+                      "label": "Near Alpha Alloy",
+                      "checked": true
+                    },
+                    {
+                      "id": "pure-titanium",
+                      "nodeId": "pure-titanium",
+                      "humanReadableId": "Pure Titanium",
+                      "label": "Pure Titanium",
+                      "checked": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "polymer",
+              "nodeId": "polymer",
+              "humanReadableId": "Polymer",
+              "label": "Polymer",
+              "checked": true,
+              "implicitlyChecked": true,
+              "materialsCount": 6443,
+              "children": [
+                {
+                  "id": "elastomer",
+                  "nodeId": "elastomer",
+                  "humanReadableId": "Elastomer",
+                  "label": "Elastomer",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "chloroprene-rubber--cr-",
+                      "nodeId": "chloroprene-rubber--cr-",
+                      "humanReadableId": "Chloroprene Rubber (CR)",
+                      "label": "Chloroprene Rubber (CR)",
+                      "checked": true
+                    },
+                    {
+                      "id": "ethylene-propylene-diene-rubber--epdm-",
+                      "nodeId": "ethylene-propylene-diene-rubber--epdm-",
+                      "humanReadableId": "Ethylene Propylene Diene Rubber (EPDM)",
+                      "label": "Ethylene Propylene Diene Rubber (EPDM)",
+                      "checked": true
+                    },
+                    {
+                      "id": "ethylene-propylene-rubber--epr-",
+                      "nodeId": "ethylene-propylene-rubber--epr-",
+                      "humanReadableId": "Ethylene Propylene Rubber (EPR)",
+                      "label": "Ethylene Propylene Rubber (EPR)",
+                      "checked": true
+                    },
+                    {
+                      "id": "fluorosilicone-rubber--fvmq-",
+                      "nodeId": "fluorosilicone-rubber--fvmq-",
+                      "humanReadableId": "Fluorosilicone Rubber (FVMQ)",
+                      "label": "Fluorosilicone Rubber (FVMQ)",
+                      "checked": true
+                    },
+                    {
+                      "id": "natural-rubber--nr-",
+                      "nodeId": "natural-rubber--nr-",
+                      "humanReadableId": "Natural Rubber (NR)",
+                      "label": "Natural Rubber (NR)",
+                      "checked": true
+                    },
+                    {
+                      "id": "nitrile-rubber--nbr-",
+                      "nodeId": "nitrile-rubber--nbr-",
+                      "humanReadableId": "Nitrile Rubber (NBR)",
+                      "label": "Nitrile Rubber (NBR)",
+                      "checked": true
+                    },
+                    {
+                      "id": "styrene-butadiene-rubber--sbr-",
+                      "nodeId": "styrene-butadiene-rubber--sbr-",
+                      "humanReadableId": "Styrene Butadiene Rubber (SBR)",
+                      "label": "Styrene Butadiene Rubber (SBR)",
+                      "checked": true
+                    },
+                    {
+                      "id": "thermoplastic-elastomer--tpe-",
+                      "nodeId": "thermoplastic-elastomer--tpe-",
+                      "humanReadableId": "Thermoplastic Elastomer (TPE)",
+                      "label": "Thermoplastic Elastomer (TPE)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "elastomeric-alloy--tpv-",
+                          "nodeId": "elastomeric-alloy--tpv-",
+                          "humanReadableId": "Elastomeric Alloy (TPV)",
+                          "label": "Elastomeric Alloy (TPV)",
+                          "checked": true
+                        },
+                        {
+                          "id": "thermoplastic-copolyester--tpc-",
+                          "nodeId": "thermoplastic-copolyester--tpc-",
+                          "humanReadableId": "Thermoplastic Copolyester (TPC)",
+                          "label": "Thermoplastic Copolyester (TPC)",
+                          "checked": true
+                        },
+                        {
+                          "id": "thermoplastic-polyamide--tpa-",
+                          "nodeId": "thermoplastic-polyamide--tpa-",
+                          "humanReadableId": "Thermoplastic Polyamide (TPA)",
+                          "label": "Thermoplastic Polyamide (TPA)",
+                          "checked": true
+                        },
+                        {
+                          "id": "thermoplastic-polyolefin--tpo-",
+                          "nodeId": "thermoplastic-polyolefin--tpo-",
+                          "humanReadableId": "Thermoplastic Polyolefin (TPO)",
+                          "label": "Thermoplastic Polyolefin (TPO)",
+                          "checked": true
+                        },
+                        {
+                          "id": "thermoplastic-polyurethane--tpu-",
+                          "nodeId": "thermoplastic-polyurethane--tpu-",
+                          "humanReadableId": "Thermoplastic Polyurethane (TPU)",
+                          "label": "Thermoplastic Polyurethane (TPU)",
+                          "checked": true
+                        },
+                        {
+                          "id": "thermoplastic-styrenic-block-copolymer--tps-",
+                          "nodeId": "thermoplastic-styrenic-block-copolymer--tps-",
+                          "humanReadableId": "Thermoplastic Styrenic Block Copolymer (TPS)",
+                          "label": "Thermoplastic Styrenic Block Copolymer (TPS)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "thermoplastic-polyester-elastomer--tpee-",
+                      "nodeId": "thermoplastic-polyester-elastomer--tpee-",
+                      "humanReadableId": "Thermoplastic Polyester Elastomer (TPEE)",
+                      "label": "Thermoplastic Polyester Elastomer (TPEE)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "thermoplastic-polyester-elastomer--tpee-",
+                          "nodeId": "thermoplastic-polyester-elastomer--tpee--",
+                          "humanReadableId": "Thermoplastic Polyester Elastomer (TPEE)",
+                          "label": "Thermoplastic Polyester Elastomer (TPEE)",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "thermoplastic",
+                  "nodeId": "thermoplastic",
+                  "humanReadableId": "Thermoplastic",
+                  "label": "Thermoplastic",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "acrylic",
+                      "nodeId": "acrylic",
+                      "humanReadableId": "Acrylic",
+                      "label": "Acrylic",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polyacrylonitrile--pan-",
+                          "nodeId": "polyacrylonitrile--pan-",
+                          "humanReadableId": "Polyacrylonitrile (PAN)",
+                          "label": "Polyacrylonitrile (PAN)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polymethyl-methacrylate--pmma-",
+                          "nodeId": "polymethyl-methacrylate--pmma-",
+                          "humanReadableId": "Polymethyl methacrylate (PMMA)",
+                          "label": "Polymethyl methacrylate (PMMA)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "biobased---biopolymer",
+                      "nodeId": "biobased---biopolymer",
+                      "humanReadableId": "Biobased / Biopolymer",
+                      "label": "Biobased / Biopolymer",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "cellulose-acetate--ca-",
+                          "nodeId": "cellulose-acetate--ca-",
+                          "humanReadableId": "Cellulose Acetate (CA)",
+                          "label": "Cellulose Acetate (CA)",
+                          "checked": true
+                        },
+                        {
+                          "id": "cellulose-acetate-butyrate--cab-",
+                          "nodeId": "cellulose-acetate-butyrate--cab-",
+                          "humanReadableId": "Cellulose Acetate Butyrate (CAB)",
+                          "label": "Cellulose Acetate Butyrate (CAB)",
+                          "checked": true
+                        },
+                        {
+                          "id": "cellulose-acetate-propionate--cap-",
+                          "nodeId": "cellulose-acetate-propionate--cap-",
+                          "humanReadableId": "Cellulose Acetate Propionate (CAP)",
+                          "label": "Cellulose Acetate Propionate (CAP)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "fluoropolymer",
+                      "nodeId": "fluoropolymer",
+                      "humanReadableId": "Fluoropolymer",
+                      "label": "Fluoropolymer",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "ethylene-tetrafluoroethylene-copolymer--etfe-",
+                          "nodeId": "ethylene-tetrafluoroethylene-copolymer--etfe-",
+                          "humanReadableId": "Ethylene Tetrafluoroethylene Copolymer (ETFE)",
+                          "label": "Ethylene Tetrafluoroethylene Copolymer (ETFE)",
+                          "checked": true
+                        },
+                        {
+                          "id": "fluorinated-ethylene-propylene--fep-",
+                          "nodeId": "fluorinated-ethylene-propylene--fep-",
+                          "humanReadableId": "Fluorinated ethylene propylene (FEP)",
+                          "label": "Fluorinated ethylene propylene (FEP)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polytetrafluoroethylene--ptfe-",
+                          "nodeId": "polytetrafluoroethylene--ptfe-",
+                          "humanReadableId": "Polytetrafluoroethylene (PTFE)",
+                          "label": "Polytetrafluoroethylene (PTFE)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyvinyldenefluoride--pvdf-",
+                          "nodeId": "polyvinyldenefluoride--pvdf-",
+                          "humanReadableId": "Polyvinyldenefluoride (PVDF)",
+                          "label": "Polyvinyldenefluoride (PVDF)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "liquid-crystal-polymers--lcp-",
+                      "nodeId": "liquid-crystal-polymers--lcp-",
+                      "humanReadableId": "Liquid Crystal Polymers (LCP)",
+                      "label": "Liquid Crystal Polymers (LCP)",
+                      "checked": true
+                    },
+                    {
+                      "id": "polyamide--pa-",
+                      "nodeId": "polyamide--pa-",
+                      "humanReadableId": "Polyamide (PA)",
+                      "label": "Polyamide (PA)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "aramide",
+                          "nodeId": "aramide",
+                          "humanReadableId": "Aramide",
+                          "label": "Aramide",
+                          "checked": true
+                        },
+                        {
+                          "id": "copolyamide-6-12--pa6-12-",
+                          "nodeId": "copolyamide-6-12--pa6-12-",
+                          "humanReadableId": "Copolyamide 6/12 (PA6/12)",
+                          "label": "Copolyamide 6/12 (PA6/12)",
+                          "checked": true
+                        },
+                        {
+                          "id": "copolyamide-6-66--pa6-66-",
+                          "nodeId": "copolyamide-6-66--pa6-66-",
+                          "humanReadableId": "Copolyamide 6/66 (PA6/66)",
+                          "label": "Copolyamide 6/66 (PA6/66)",
+                          "checked": true
+                        },
+                        {
+                          "id": "other-polyamide--pa-",
+                          "nodeId": "other-polyamide--pa-",
+                          "humanReadableId": "Other Polyamide (PA)",
+                          "label": "Other Polyamide (PA)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-1010--pa1010-",
+                          "nodeId": "polyamide-1010--pa1010-",
+                          "humanReadableId": "Polyamide 1010 (PA1010)",
+                          "label": "Polyamide 1010 (PA1010)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-1012--pa1012-",
+                          "nodeId": "polyamide-1012--pa1012-",
+                          "humanReadableId": "Polyamide 1012 (PA1012)",
+                          "label": "Polyamide 1012 (PA1012)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-11--pa11-",
+                          "nodeId": "polyamide-11--pa11-",
+                          "humanReadableId": "Polyamide 11 (PA11)",
+                          "label": "Polyamide 11 (PA11)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-12--pa12-",
+                          "nodeId": "polyamide-12--pa12-",
+                          "humanReadableId": "Polyamide 12 (PA12)",
+                          "label": "Polyamide 12 (PA12)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-410--pa410-",
+                          "nodeId": "polyamide-410--pa410-",
+                          "humanReadableId": "Polyamide 410 (PA410)",
+                          "label": "Polyamide 410 (PA410)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-46--pa46-",
+                          "nodeId": "polyamide-46--pa46-",
+                          "humanReadableId": "Polyamide 46 (PA46)",
+                          "label": "Polyamide 46 (PA46)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-6--pa6-",
+                          "nodeId": "polyamide-6--pa6-",
+                          "humanReadableId": "Polyamide 6 (PA6)",
+                          "label": "Polyamide 6 (PA6)",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "polyamide-4t--pa4t-",
+                              "nodeId": "polyamide-4t--pa4t-",
+                              "humanReadableId": "Polyamide 4T (PA4T)",
+                              "label": "Polyamide 4T (PA4T)",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "polyamide-610--pa610-",
+                          "nodeId": "polyamide-610--pa610-",
+                          "humanReadableId": "Polyamide 610 (PA610)",
+                          "label": "Polyamide 610 (PA610)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-612--pa612-",
+                          "nodeId": "polyamide-612--pa612-",
+                          "humanReadableId": "Polyamide 612 (PA612)",
+                          "label": "Polyamide 612 (PA612)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyamide-66--pa66-",
+                          "nodeId": "polyamide-66--pa66-",
+                          "humanReadableId": "Polyamide 66 (PA66)",
+                          "label": "Polyamide 66 (PA66)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyphthalamide--ppa-",
+                          "nodeId": "polyphthalamide--ppa-",
+                          "humanReadableId": "Polyphthalamide (PPA)",
+                          "label": "Polyphthalamide (PPA)",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "copolyamide-66-6i--pa66-6i-",
+                              "nodeId": "copolyamide-66-6i--pa66-6i-",
+                              "humanReadableId": "Copolyamide 66/6I (PA66/6I)",
+                              "label": "Copolyamide 66/6I (PA66/6I)",
+                              "checked": true
+                            },
+                            {
+                              "id": "copolyamide-6t-66--pa6t-66-",
+                              "nodeId": "copolyamide-6t-66--pa6t-66-",
+                              "humanReadableId": "Copolyamide 6T/66 (PA6T/66)",
+                              "label": "Copolyamide 6T/66 (PA6T/66)",
+                              "checked": true
+                            },
+                            {
+                              "id": "copolyamide-6t-6i-66--pa6t-6i-66-",
+                              "nodeId": "copolyamide-6t-6i-66--pa6t-6i-66-",
+                              "humanReadableId": "Copolyamide 6T/6I/66 (PA6T/6I/66)",
+                              "label": "Copolyamide 6T/6I/66 (PA6T/6I/66)",
+                              "checked": true
+                            },
+                            {
+                              "id": "copolyamide-pa6i-6t--pa6i-6t-",
+                              "nodeId": "copolyamide-pa6i-6t--pa6i-6t-",
+                              "humanReadableId": "Copolyamide PA6I/6T (PA6I/6T)",
+                              "label": "Copolyamide PA6I/6T (PA6I/6T)",
+                              "checked": true
+                            },
+                            {
+                              "id": "polyamide-4t--pa4t-",
+                              "nodeId": "polyamide-4t--pa4t--",
+                              "humanReadableId": "Polyamide 4T (PA4T)",
+                              "label": "Polyamide 4T (PA4T)",
+                              "checked": true
+                            },
+                            {
+                              "id": "polyamide-6t--pa6t-",
+                              "nodeId": "polyamide-6t--pa6t-",
+                              "humanReadableId": "Polyamide 6T (PA6T)",
+                              "label": "Polyamide 6T (PA6T)",
+                              "checked": true
+                            },
+                            {
+                              "id": "polyamide-pa6-6t--pa6-6t-",
+                              "nodeId": "polyamide-pa6-6t--pa6-6t-",
+                              "humanReadableId": "Polyamide PA6/6T (PA6/6T)",
+                              "label": "Polyamide PA6/6T (PA6/6T)",
+                              "checked": true
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polyaryletherketone--paek-",
+                      "nodeId": "polyaryletherketone--paek-",
+                      "humanReadableId": "Polyaryletherketone (PAEK)",
+                      "label": "Polyaryletherketone (PAEK)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polyether-ketone--pek-",
+                          "nodeId": "polyether-ketone--pek-",
+                          "humanReadableId": "Polyether Ketone (PEK)",
+                          "label": "Polyether Ketone (PEK)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyetherether-ketone--peek-",
+                          "nodeId": "polyetherether-ketone--peek-",
+                          "humanReadableId": "Polyetherether Ketone (PEEK)",
+                          "label": "Polyetherether Ketone (PEEK)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyetherketoneketone--pekk-",
+                          "nodeId": "polyetherketoneketone--pekk-",
+                          "humanReadableId": "Polyetherketoneketone (PEKK)",
+                          "label": "Polyetherketoneketone (PEKK)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polycarbonate--pc-",
+                      "nodeId": "polycarbonate--pc-",
+                      "humanReadableId": "Polycarbonate (PC)",
+                      "label": "Polycarbonate (PC)",
+                      "checked": true
+                    },
+                    {
+                      "id": "polyester",
+                      "nodeId": "polyester",
+                      "humanReadableId": "Polyester",
+                      "label": "Polyester",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polybutylene-terephthalate--pbt-",
+                          "nodeId": "polybutylene-terephthalate--pbt-",
+                          "humanReadableId": "Polybutylene Terephthalate (PBT)",
+                          "label": "Polybutylene Terephthalate (PBT)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyethylene-terephthalate--pet-",
+                          "nodeId": "polyethylene-terephthalate--pet-",
+                          "humanReadableId": "Polyethylene Terephthalate (PET)",
+                          "label": "Polyethylene Terephthalate (PET)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyethylene-terephthalate-glycol--petg-",
+                          "nodeId": "polyethylene-terephthalate-glycol--petg-",
+                          "humanReadableId": "Polyethylene Terephthalate Glycol (PETG)",
+                          "label": "Polyethylene Terephthalate Glycol (PETG)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyglycolicide--pga-",
+                          "nodeId": "polyglycolicide--pga-",
+                          "humanReadableId": "Polyglycolicide (PGA)",
+                          "label": "Polyglycolicide (PGA)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polytrimethylene-terephthalate--ptt-",
+                          "nodeId": "polytrimethylene-terephthalate--ptt-",
+                          "humanReadableId": "Polytrimethylene Terephthalate (PTT)",
+                          "label": "Polytrimethylene Terephthalate (PTT)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polyimide--pi-",
+                      "nodeId": "polyimide--pi-",
+                      "humanReadableId": "Polyimide (PI)",
+                      "label": "Polyimide (PI)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polyamidimide--pai-",
+                          "nodeId": "polyamidimide--pai-",
+                          "humanReadableId": "Polyamidimide (PAI)",
+                          "label": "Polyamidimide (PAI)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polybenzimidazole--pbi-",
+                          "nodeId": "polybenzimidazole--pbi-",
+                          "humanReadableId": "Polybenzimidazole (PBI)",
+                          "label": "Polybenzimidazole (PBI)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyetherimide--pei-",
+                          "nodeId": "polyetherimide--pei-",
+                          "humanReadableId": "Polyetherimide (PEI)",
+                          "label": "Polyetherimide (PEI)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polyketone--pk-",
+                      "nodeId": "polyketone--pk-",
+                      "humanReadableId": "Polyketone (PK)",
+                      "label": "Polyketone (PK)",
+                      "checked": true
+                    },
+                    {
+                      "id": "polymer-blend",
+                      "nodeId": "polymer-blend",
+                      "humanReadableId": "Polymer Blend",
+                      "label": "Polymer Blend",
+                      "checked": true
+                    },
+                    {
+                      "id": "polyolefin--po-",
+                      "nodeId": "polyolefin--po-",
+                      "humanReadableId": "Polyolefin (PO)",
+                      "label": "Polyolefin (PO)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polybutene--pb-",
+                          "nodeId": "polybutene--pb-",
+                          "humanReadableId": "Polybutene (PB)",
+                          "label": "Polybutene (PB)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyethylene--pe-",
+                          "nodeId": "polyethylene--pe-",
+                          "humanReadableId": "Polyethylene (PE)",
+                          "label": "Polyethylene (PE)",
+                          "checked": true,
+                          "implicitlyChecked": true,
+                          "children": [
+                            {
+                              "id": "high-density-polyethylene--pe-hd-",
+                              "nodeId": "high-density-polyethylene--pe-hd-",
+                              "humanReadableId": "High Density Polyethylene (PE-HD)",
+                              "label": "High Density Polyethylene (PE-HD)",
+                              "checked": true
+                            },
+                            {
+                              "id": "high-molecular-weight-polyethylene--pe-hmw-",
+                              "nodeId": "high-molecular-weight-polyethylene--pe-hmw-",
+                              "humanReadableId": "High Molecular Weight Polyethylene (PE-HMW)",
+                              "label": "High Molecular Weight Polyethylene (PE-HMW)",
+                              "checked": true
+                            },
+                            {
+                              "id": "linear-low-density-polyethylene--pe-lld-",
+                              "nodeId": "linear-low-density-polyethylene--pe-lld-",
+                              "humanReadableId": "Linear Low Density Polyethylene (PE-LLD)",
+                              "label": "Linear Low Density Polyethylene (PE-LLD)",
+                              "checked": true
+                            },
+                            {
+                              "id": "low-density-polyethylene--pe-ld-",
+                              "nodeId": "low-density-polyethylene--pe-ld-",
+                              "humanReadableId": "Low Density Polyethylene (PE-LD)",
+                              "label": "Low Density Polyethylene (PE-LD)",
+                              "checked": true
+                            },
+                            {
+                              "id": "medium-density-polyethylene--pe-md-",
+                              "nodeId": "medium-density-polyethylene--pe-md-",
+                              "humanReadableId": "Medium Density Polyethylene (PE-MD)",
+                              "label": "Medium Density Polyethylene (PE-MD)",
+                              "checked": true
+                            },
+                            {
+                              "id": "ultra-high-molecular-weight-polyethylene--pe-uhmw-",
+                              "nodeId": "ultra-high-molecular-weight-polyethylene--pe-uhmw-",
+                              "humanReadableId": "Ultra High Molecular Weight Polyethylene (PE-UHMW)",
+                              "label": "Ultra High Molecular Weight Polyethylene (PE-UHMW)",
+                              "checked": true
+                            },
+                            {
+                              "id": "very-low-density-polyethylene--pe-vld-",
+                              "nodeId": "very-low-density-polyethylene--pe-vld-",
+                              "humanReadableId": "Very Low Density Polyethylene (PE-VLD)",
+                              "label": "Very Low Density Polyethylene (PE-VLD)",
+                              "checked": true
+                            }
+                          ]
+                        },
+                        {
+                          "id": "polymethylpentene--pmp-",
+                          "nodeId": "polymethylpentene--pmp-",
+                          "humanReadableId": "Polymethylpentene (PMP)",
+                          "label": "Polymethylpentene (PMP)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polypropylene--pp-",
+                          "nodeId": "polypropylene--pp-",
+                          "humanReadableId": "Polypropylene (PP)",
+                          "label": "Polypropylene (PP)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polyoxymethylene--pom-",
+                      "nodeId": "polyoxymethylene--pom-",
+                      "humanReadableId": "Polyoxymethylene (POM)",
+                      "label": "Polyoxymethylene (POM)",
+                      "checked": true
+                    },
+                    {
+                      "id": "polyphenyl",
+                      "nodeId": "polyphenyl",
+                      "humanReadableId": "Polyphenyl",
+                      "label": "Polyphenyl",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polyphenyl-ether--ppe-",
+                          "nodeId": "polyphenyl-ether--ppe-",
+                          "humanReadableId": "Polyphenyl Ether (PPE)",
+                          "label": "Polyphenyl Ether (PPE)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyphenylene-oxide--ppo-",
+                          "nodeId": "polyphenylene-oxide--ppo-",
+                          "humanReadableId": "Polyphenylene Oxide (PPO)",
+                          "label": "Polyphenylene Oxide (PPO)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyphenylene-sulfide--pps-",
+                          "nodeId": "polyphenylene-sulfide--pps-",
+                          "humanReadableId": "Polyphenylene Sulfide (PPS)",
+                          "label": "Polyphenylene Sulfide (PPS)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "polysulphones",
+                      "nodeId": "polysulphones",
+                      "humanReadableId": "Polysulphones",
+                      "label": "Polysulphones",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "polyether-sulfone--pes-",
+                          "nodeId": "polyether-sulfone--pes-",
+                          "humanReadableId": "Polyether Sulfone (PES)",
+                          "label": "Polyether Sulfone (PES)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyphenylsulphone--ppsu-",
+                          "nodeId": "polyphenylsulphone--ppsu-",
+                          "humanReadableId": "Polyphenylsulphone (PPSU)",
+                          "label": "Polyphenylsulphone (PPSU)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polysulphone--psu-",
+                          "nodeId": "polysulphone--psu-",
+                          "humanReadableId": "Polysulphone (PSU)",
+                          "label": "Polysulphone (PSU)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "styrene",
+                      "nodeId": "styrene",
+                      "humanReadableId": "Styrene",
+                      "label": "Styrene",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "acrylonitrile-butadiene-styrene--abs-",
+                          "nodeId": "acrylonitrile-butadiene-styrene--abs-",
+                          "humanReadableId": "Acrylonitrile Butadiene Styrene (ABS)",
+                          "label": "Acrylonitrile Butadiene Styrene (ABS)",
+                          "checked": true
+                        },
+                        {
+                          "id": "acrylonitrile-styrene-acrylate--asa-",
+                          "nodeId": "acrylonitrile-styrene-acrylate--asa-",
+                          "humanReadableId": "Acrylonitrile Styrene Acrylate (ASA)",
+                          "label": "Acrylonitrile Styrene Acrylate (ASA)",
+                          "checked": true
+                        },
+                        {
+                          "id": "high-impact-polystyrene--hips-",
+                          "nodeId": "high-impact-polystyrene--hips-",
+                          "humanReadableId": "High Impact Polystyrene (HIPS)",
+                          "label": "High Impact Polystyrene (HIPS)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polystyrene--ps-",
+                          "nodeId": "polystyrene--ps-",
+                          "humanReadableId": "Polystyrene (PS)",
+                          "label": "Polystyrene (PS)",
+                          "checked": true
+                        },
+                        {
+                          "id": "styrene-acrylonitrile--san-",
+                          "nodeId": "styrene-acrylonitrile--san-",
+                          "humanReadableId": "Styrene Acrylonitrile (SAN)",
+                          "label": "Styrene Acrylonitrile (SAN)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "thermoplastic-elastomer--tpe-",
+                      "nodeId": "thermoplastic-elastomer--tpe--",
+                      "humanReadableId": "Thermoplastic Elastomer (TPE)",
+                      "label": "Thermoplastic Elastomer (TPE)",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "thermoplastic-copolyester--tpc-",
+                          "nodeId": "thermoplastic-copolyester--tpc--",
+                          "humanReadableId": "Thermoplastic Copolyester (TPC)",
+                          "label": "Thermoplastic Copolyester (TPC)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "vinyl",
+                      "nodeId": "vinyl",
+                      "humanReadableId": "Vinyl",
+                      "label": "Vinyl",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "ethylene-vinyl-acetate--evac-",
+                          "nodeId": "ethylene-vinyl-acetate--evac-",
+                          "humanReadableId": "Ethylene Vinyl Acetate (EVAC)",
+                          "label": "Ethylene Vinyl Acetate (EVAC)",
+                          "checked": true
+                        },
+                        {
+                          "id": "polyvinyl-chloride--pvc-",
+                          "nodeId": "polyvinyl-chloride--pvc-",
+                          "humanReadableId": "Polyvinyl Chloride (PVC)",
+                          "label": "Polyvinyl Chloride (PVC)",
+                          "checked": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "thermosetting",
+                  "nodeId": "thermosetting",
+                  "humanReadableId": "Thermosetting",
+                  "label": "Thermosetting",
+                  "checked": true,
+                  "implicitlyChecked": true,
+                  "children": [
+                    {
+                      "id": "amino-resin",
+                      "nodeId": "amino-resin",
+                      "humanReadableId": "Amino Resin",
+                      "label": "Amino Resin",
+                      "checked": true,
+                      "implicitlyChecked": true,
+                      "children": [
+                        {
+                          "id": "bismaleimide--bmi-",
+                          "nodeId": "bismaleimide--bmi-",
+                          "humanReadableId": "Bismaleimide (BMI)",
+                          "label": "Bismaleimide (BMI)",
+                          "checked": true
+                        },
+                        {
+                          "id": "melamine-formaldehyde--mf-",
+                          "nodeId": "melamine-formaldehyde--mf-",
+                          "humanReadableId": "Melamine formaldehyde (MF)",
+                          "label": "Melamine formaldehyde (MF)",
+                          "checked": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "epoxy-resin--ep-",
+                      "nodeId": "epoxy-resin--ep-",
+                      "humanReadableId": "Epoxy Resin (EP)",
+                      "label": "Epoxy Resin (EP)",
+                      "checked": true
+                    },
+                    {
+                      "id": "phenol-formaldehyde-resin--pf-",
+                      "nodeId": "phenol-formaldehyde-resin--pf-",
+                      "humanReadableId": "Phenol Formaldehyde Resin (PF)",
+                      "label": "Phenol Formaldehyde Resin (PF)",
+                      "checked": true
+                    },
+                    {
+                      "id": "phthalonitrile--pn-",
+                      "nodeId": "phthalonitrile--pn-",
+                      "humanReadableId": "Phthalonitrile (PN)",
+                      "label": "Phthalonitrile (PN)",
+                      "checked": true
+                    },
+                    {
+                      "id": "polyester-resin--up-",
+                      "nodeId": "polyester-resin--up-",
+                      "humanReadableId": "Polyester Resin (UP)",
+                      "label": "Polyester Resin (UP)",
+                      "checked": true
+                    },
+                    {
+                      "id": "vinyl-ester-resin--ve-",
+                      "nodeId": "vinyl-ester-resin--ve-",
+                      "humanReadableId": "Vinyl Ester Resin (VE)",
+                      "label": "Vinyl Ester Resin (VE)",
+                      "checked": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]}
